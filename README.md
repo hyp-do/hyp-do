@@ -32,7 +32,7 @@ Looking for some open source projects to contribute to.
 [StudyTrackr - Capstone WGU Project](https://github.com/hyp-fu/StudyTrackr)
 
 # 📫 How to reach me
-As it stands, I don't really have that much of an online presence. You can find me on [![Twitter][1.1]][1] (Rarely used) or [![LinkedIn][2.1]][2]!
+I don't really have that much of an online presence. You can find me on [![Twitter][1.1]][1] (Rarely used) or [![LinkedIn][2.1]][2]!
 
 [1.1]: http://i.imgur.com/wWzX9uB.png
 [2.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
