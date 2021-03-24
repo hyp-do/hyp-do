@@ -10,7 +10,7 @@ As part of my internship I am responsible for implementing form and data validat
 
 # 📚 Interests 
 
-Outside of developing and growing my skills as a developer I am an avid karateka.  In fact, taking the lessons with me that I have learned from the martial arts is what got me to where I am at in life.
+Outside of developing and growing my skills as a developer I am an avid karateka. Taking the lessons with me that I have learned from the martial arts is what got me to where I am at in life.
 It help shift me from a fear-based mindset to a growth-based mindset and I find that I am all the happier, more productive, and balanced for it.
 
 Besides martial arts and coding, I like to read anything and everything. I am slowly making my way through a list of the "great" books. [52 Books in 52 Weeks - Well Educated Mind](http://www.read52booksin52weeks.com/p/well-educated-mind.html) in no particular order and at my own pace. 
