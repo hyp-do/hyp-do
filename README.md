@@ -8,7 +8,7 @@ Luckily enough, WGU provides access to LinkedIn learning and Pluralsight. Curren
 
 As part of my internship, I am working with blazor and right now I am responsible for implementing form and data validation, and creating tests for them. I am utilizing Bogus and FluentValidation to accomplish these tasks. 
 
-# 📘 Interests 
+# 📚 Interests 
 
 Outside of developing and growing my skills as a developer I am an avid karateka.  Infact, taking the lessons with me that I have learned through the martial arts is what got me to where I am currently.
 It help shift me from a fear-based mindset to a growth-based mindset and I find I am all the happier for it.
@@ -20,6 +20,16 @@ I also have been known to game from time to time and recently I have taken to re
 # 💻 I'm looking to collaborate on..
 
 Looking for some open source projects to contribute to. 
+
+# 🚀 Portfolio Projects
+
+[BFM1 - First C# WGU Project](https://github.com/hyp-fu/BFM1) 
+
+[BOP1 - Second C# WGU Project](https://github.com/hyp-fu/BOP1)
+
+[LAP1 - Third C# WGU Project](https://github.com/hyp-fu/LAP1)
+
+[StudyTrackr - Capstone WGU Project](https://github.com/hyp-fu/StudyTrackr)
 
 # 📫 How to reach me
 As it stands currently, I don't really have that much of an online presence. You can find me on [![Twitter][1.1]][1] (Rarely used) or [![LinkedIn][2.1]][2]!
