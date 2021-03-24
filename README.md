@@ -19,7 +19,7 @@ I also have been known to game from time to time and recently I have taken to re
 
 # 💻 I'm looking to collaborate on..
 
-I am looking for some open source projects to work on.
+I am looking to collaborate on some open source projects.
 
 # 🚀 Portfolio Projects
 
