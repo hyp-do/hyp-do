@@ -1,10 +1,10 @@
 # 👋 Hello!
 
-Hi, my name is James Travis Mundy. I recently graduated with a BSc in Software Development from WGU. I'm interning at a local creative agency, learning their technology stack and helping whereever I can. 
+Hi, my name is James Travis Mundy. I recently graduated with a BSc in Software Development from Western Governors University. I'm interning at a local creative agency, learning their technology stack and helping whereever I can. 
 
 # 🌱 Currently Learning 
 
-Luckily enough, WGU provides access to LinkedIn Learning and Pluralsight. I am going through OOP concepts (again!), learning the more advanced features of C#, and learning more and more about blazor.
+My alma matter, WGU provides access to LinkedIn Learning and Pluralsight. I am going through OOP concepts (again!), learning the more advanced features of C#, and learning more and more about blazor.
 
 As part of my internship I am responsible for implementing form and data validation, and creating tests for them. I am utilizing Bogus and FluentValidation to accomplish these tasks. 
 
