@@ -13,7 +13,7 @@ As part of my internship, I am working with blazor and right now I am responsibl
 Outside of developing and growing my skills as a developer I am an avid karateka.  Infact, taking the lessons with me that I have learned through the martial arts is what got me to where I am currently.
 It help shift me from a fear-based mindset to a growth-based mindset and I find I am all the happier for it.
 
-Besides martial arts and coding, I like to read anything and everything. I am slowly making my way through a list of the "great" books. http://www.read52booksin52weeks.com/p/well-educated-mind.html In no particular order and at my own pace. 
+Besides martial arts and coding, I like to read anything and everything. I am slowly making my way through a list of the "great" books. [52 Books in 52 Weeks - Well Educated Mind](http://www.read52booksin52weeks.com/p/well-educated-mind.html) in no particular order and at my own pace. 
 
 I also have been known to game from time to time and recently I have taken to restoring my old gaming hardware, getting that working, revisiting old favorites, and finding ones I have never played!
 
