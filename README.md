@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-Hi, my name is James Travis Mundy. I recently graduated with a BSc in Software Development from WGU. I'm currently interning at a local creative agency learning their stack and helping whereever I can. 
+Hi, my name is James Travis Mundy. I recently graduated with a BSc in Software Development from WGU. I'm currently interning at a local creative agency, learning their technology stack and helping whereever I can. 
 
 # 🌱 Currently Learning 
 
