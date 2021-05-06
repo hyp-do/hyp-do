@@ -23,13 +23,13 @@ I am looking to collaborate on some open source projects.
 
 # 🚀 Portfolio Projects
 
-[BFM1 - First C# WGU Project](https://github.com/hyp-fu/BFM1) 
+[BFM1 - First C# WGU Project](https://github.com/hyp-do/BFM1) 
 
-[BOP1 - Second C# WGU Project](https://github.com/hyp-fu/BOP1)
+[BOP1 - Second C# WGU Project](https://github.com/hyp-do/BOP1)
 
-[LAP1 - Third C# WGU Project](https://github.com/hyp-fu/LAP1)
+[LAP1 - Third C# WGU Project](https://github.com/hyp-do/LAP1)
 
-[StudyTrackr - Capstone WGU Project](https://github.com/hyp-fu/StudyTrackr)
+[StudyTrackr - Capstone WGU Project](https://github.com/hyp-do/StudyTrackr)
 
 # 📫 How to reach me
 I don't really have that much of an online presence. You can find me on [![Twitter][1.1]][1] (Rarely used) or [![LinkedIn][2.1]][2]!
